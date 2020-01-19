@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">new1</string>
+    <string name="btnDoSomething">Do Something</string>
+    <string name="btnClick">Click here</string>
+    <string name="counter">0</string>
+    <string name="height" />
+    <string name="weight" />
+    <string name="bmi" />
+</resources>
